@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Vicinity</string>
+    <string name="skip">Skip</string>
+    <string name="food">Food</string>
+    <string name="food_logo">Food logo</string>
+    <string name="shopping_logo">Shopping Logo</string>
+    <string name="shopping">Shopping</string>
+    <string name="attractions">Attractions</string>
+    <string name="attraction_logo">Attraction Logo</string>
+    <string name="sport">Sport</string>
+    <string name="music">Music</string>
+    <string name="music_logo">Music Logo</string>
+    <string name="select_your_interests">Select Some Interests</string>
+    <string name="drinks">Drinks</string>
+    <string name="todo">TODO</string>
+    <string name="sports_logo">Sports Logo</string>
+    <string name="drinks_logo">Drinks Logo</string>
+    <string name="submit">Submit</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quis dictum turpis, eu posuere leo. Donec dignissim orci a augue hendrerit porttitor. Praesent sit amet commodo risus. Nam eu ante hendrerit odio pellentesque ultricies. Nunc sagittis tristique bibendum. Etiam quis lectus et libero dictum vestibulum. Vivamus sed neque eu urna luctus ullamcorper. Maecenas libero risus, sollicitudin vel laoreet sed, consequat vitae justo. Vestibulum rutrum hendrerit quam id aliquam. Sed congue eget erat nec aliquet. Etiam sodales eros sollicitudin eros convallis, sed aliquam diam efficitur. Donec dignissim diam leo, nec dapibus ex mattis vitae. Sed sollicitudin lectus vitae dolor cursus, nec elementum tellus elementum. Mauris suscipit nisl est, ut vulputate diam tempor et. Morbi efficitur lorem urna.</string>
+    <integer-array name="filter_dis">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+    </integer-array>
+    <string-array name="filter_type">
+        <item>Bar</item>
+        <item>Pub</item>
+        <item>Cafe</item>
+        <item>Historic</item>
+        <item>nightclub</item>
+        <item>Leisure</item>
+        <item>Restaurant</item>
+    </string-array>
+
+    <string-array name="collections">
+        <item>arts_centre</item>
+        <item>bar</item>
+        <item>bbq</item>
+        <item>bicycle_rental</item>
+        <item>cafe</item>
+        <item>casino</item>
+        <item>cinema</item>
+        <item>community_centre</item>
+        <item>gambling</item>
+        <item>historic</item>
+        <item>internet_cafe</item>
+        <item>nightclub</item>
+        <item>leisure</item>
+        <item>library</item>
+        <item>place_of_worship</item>
+        <item>pub</item>
+        <item>restaurant</item>
+        <item>sport</item>
+        <item>theatre</item>
+        <item>tourism</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/categoryTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Filter Search"
+        android:textColor="@color/primary_text"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/activityTypeTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/categoryTextView"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Activity Type"
+        android:textColor="@color/primary_text" />
+
+    <TextView
+        android:id="@+id/distanceTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spinner2"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="16dp"
+        android:text="Max Distance (In Km)"
+        android:textColor="@color/primary_text" />
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/distanceTv"
+        android:layout_gravity="center"
+        android:layout_margin="10dp" />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/activityTypeTv"
+        android:layout_gravity="center"
+        android:layout_margin="10dp" />
+
+    <Button
+        android:id="@+id/search_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spinner1"
+        android:layout_centerHorizontal="true"
+        android:text="Search" />
+
+
+</RelativeLayout>

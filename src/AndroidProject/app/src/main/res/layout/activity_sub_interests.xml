@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SubInterestsActivity">
+
+    <TextView
+        android:layout_margin="18dp"
+        android:textSize="18sp"
+        android:textColor="@color/primary_text"
+        android:id="@+id/subTv1"
+        android:text="Here are some events/places which fall into your chosen categories"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:textSize="16sp"
+        android:textColor="@color/primary_text"
+        android:layout_marginStart="18dp"
+        android:layout_below="@+id/subTv1"
+        android:id="@+id/subTv2"
+        android:text="Please select up to 5 of your favourites"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:textSize="16sp"
+        android:layout_marginStart="18dp"
+        android:layout_marginEnd="18dp"
+        android:layout_below="@+id/subTv2"
+        android:id="@+id/subTv3"
+        android:text="This will help for recommending new things to do each day"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Spinner
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/subTv3"
+        android:gravity="center"
+        android:layout_marginStart="18dp"
+        android:layout_marginEnd="18dp"
+        android:id="@+id/SubInterestSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/interestRecyclerView"
+        android:layout_margin="18dp"
+        android:layout_above="@+id/nextPageBtn"
+        android:layout_below="@id/SubInterestSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:layout_margin="12dp"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/nextPageBtn"
+        android:layout_centerHorizontal="true"
+        android:text="Continue"
+        android:layout_width="100dp"
+        android:layout_height="50dp"/>
+
+</RelativeLayout>

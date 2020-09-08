@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/nameTv"
+        android:text=""
+        android:layout_toRightOf="@+id/welcomeTv"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/colorAccent"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_alignLeft="@+id/messageTv"
+        android:id="@+id/welcomeTv"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/primary_text"
+        android:layout_marginTop="20dp"
+        android:text="Hello, "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/messageTv"
+        android:textSize="15sp"
+        android:textColor="@color/primary_text"
+        android:text="Here are your recommended events for today!"
+        android:layout_below="@id/welcomeTv"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:textColor="@color/colorPrimary"
+        android:text="Click on a place for more info"
+        android:layout_alignStart="@+id/messageTv"
+        android:layout_below="@+id/messageTv"
+        android:id="@+id/hintTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recommenderRecylerView"
+        android:layout_margin="10dp"
+        android:layout_below="@id/hintTv"
+        android:layout_above="@+id/recTv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <TextView
+        android:text="Select max distance below and refresh the page"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorAccent"
+        android:layout_marginStart="8dp"
+        android:id="@+id/recTv"
+        android:layout_above="@+id/recommenderSpinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Spinner
+        android:layout_marginEnd="100dp"
+        android:layout_marginBottom="20dp"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/recommenderSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/activityTypeTv"
+         />
+
+    <Button
+        android:background="@drawable/ic_autorenew_black_24dp"
+        android:id="@+id/refineBtn"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true"
+        android:textSize="12sp"
+        android:layout_alignParentRight="true"
+        android:layout_width="45dp"
+        android:layout_height="45dp"/>
+
+</RelativeLayout>
