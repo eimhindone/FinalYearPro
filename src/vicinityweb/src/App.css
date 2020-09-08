@@ -1,0 +1,79 @@
+.App {
+  text-align: center;
+}
+
+.App-signinbox {
+  text-align: center;
+  padding-top: 40px ;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-main {
+  background-color: #464647;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  font-size: calc(5px + 2vmin);
+  color: white;
+  text-align: center;
+  padding-top: 40px ;
+  padding-bottom: 40px ;
+}
+
+.App-padding {
+  padding-top: 20px ;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-basic-nav-dropdown{
+  display: flex;
+
+  align-items: left;
+  justify-content: center;
+
+}
+
+.App-card-head{
+  background-color: #343a40;
+  color: #ffffff;
+  padding-top: 15px ;
+  padding-bottom: 15px ;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-card-body{
+  margin-top: 2px;
+  color: #343a40;
+  font-size: calc(5px + 2vmin);
+}
+
+.App-footer{
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+}
