@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_autorenew_accent_24dp.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\ic_autorenew_accent_24dp.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_apps_black_24dp.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\ic_apps_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_red.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\bg_red.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_review_layout.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\review_layout.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\music.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_row.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\custom_row.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sub_interests.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\activity_sub_interests.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\activity_display.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ctgr_filter.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\activity_ctgr_filter.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drinks.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\drinks.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shopping.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\shopping.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_autorenew_white_24dp.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\ic_autorenew_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_attractions.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\attractions.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_menu.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\bg_menu.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_category.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_filter.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\fragment_filter.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_interest_layout.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\interest_layout.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_green.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\bg_green.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_details.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_autorenew_black_24dp.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\ic_autorenew_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sports.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\sports.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_interests.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\activity_interests.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_filter_list_black_24dp.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\ic_filter_list_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_blue.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\bg_blue.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_review.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\layout\\activity_review.xml"
+    },
+    {
+        "merged": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\College\\4th Year\\finPro\\2020-ca400-dunnee49-mcelroa9\\src\\AndroidProject\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    }
+]

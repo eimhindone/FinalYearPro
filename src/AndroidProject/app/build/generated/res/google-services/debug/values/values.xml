@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">846290533313-6gml98ejqu00klv8sd3qse65eblrneop.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://eventfinder-c285d.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">846290533313</string>
+    <string name="google_api_key" translatable="false">AIzaSyA74OBmpRt5hyKBEKhZZhCDkybvwp9Gpf4</string>
+    <string name="google_app_id" translatable="false">1:846290533313:android:c2f579d519c38bdad60d40</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA74OBmpRt5hyKBEKhZZhCDkybvwp9Gpf4</string>
+    <string name="google_storage_bucket" translatable="false">eventfinder-c285d.appspot.com</string>
+    <string name="project_id" translatable="false">eventfinder-c285d</string>
+</resources>
