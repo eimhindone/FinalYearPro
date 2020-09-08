@@ -1,0 +1,662 @@
+[
+    {
+        "type": "node",
+        "id": 660285681,
+        "lat": 53.3365479,
+        "lon": -6.264712,
+        "tags": {
+            "addr:housenumber": "5",
+            "addr:street": "Montague Street",
+            "amenity": "casino",
+            "name": "Colossus",
+            "website": "http://www.colossus.ie/",
+            "address": "Colossus, 5, Montague Street, Saint Kevin's, Dublin 2, Dublin, County Dublin, Leinster, D02 PR84, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 703864386,
+        "lat": 53.3610799,
+        "lon": -6.260385,
+        "tags": {
+            "addr:housenumber": "63",
+            "addr:street": "Dorset Street Lower",
+            "amenity": "casino",
+            "name": "D1 Club",
+            "opening_hours": "Mo-Su 10:00-17:30",
+            "website": "http://www.d1club.ie/",
+            "address": "D1 Club, 63, Dorset Street Lower, Clonliff South, Inns Quay A ED, Dublin 1, Dublin, County Dublin, Leinster, D01 C2F6, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 956426869,
+        "lat": 51.8998913,
+        "lon": -8.4769892,
+        "tags": {
+            "addr:city": "Cork",
+            "addr:housenumber": "53",
+            "addr:street": "Cornmarket Street",
+            "amenity": "casino",
+            "name": "Coral quay leisure"
+        }
+    },
+    {
+        "type": "node",
+        "id": 1084433294,
+        "lat": 53.1815976,
+        "lon": -6.797985,
+        "tags": {
+            "addr:city": "Newbridge",
+            "addr:country": "IE",
+            "addr:county": "Kildare",
+            "addr:street": "George's Street",
+            "amenity": "casino",
+            "name": "The River Card Club"
+        }
+    },
+    {
+        "type": "node",
+        "id": 1592911446,
+        "lat": 53.3376829,
+        "lon": -6.2483821,
+        "tags": {
+            "amenity": "casino",
+            "name": "Fitzwilliam Card Club",
+            "address": "Fitzwilliam Card Club, Fitzwilliam Street Lower, South Dock ED, Dublin 2, Dublin, County Dublin, Leinster, D02 FN88, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 2422227461,
+        "lat": 53.344312,
+        "lon": -6.266893,
+        "tags": {
+            "addr:housenumber": "20",
+            "addr:street": "Crane Lane",
+            "amenity": "casino",
+            "name": "The Emporium - LeapDance",
+            "address": "The Emporium - LeapDance, 20, Crane Lane, Temple Bar, Royal Exchange A ED, Dublin 2, Dublin, County Dublin, Leinster, D02 YP97, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 2471541173,
+        "lat": 53.9707698,
+        "lon": -8.3027953,
+        "tags": {
+            "addr:city": "Boyle",
+            "amenity": "casino",
+            "name": "Jackpots"
+        }
+    },
+    {
+        "type": "node",
+        "id": 2698258138,
+        "lat": 53.3628947,
+        "lon": -6.2900235,
+        "tags": {
+            "addr:city": "Dublin",
+            "addr:street": "Quarry Road",
+            "amenity": "casino",
+            "name": "Cabra Grand"
+        }
+    },
+    {
+        "type": "node",
+        "id": 2995007512,
+        "lat": 53.3345807,
+        "lon": -6.2650781,
+        "tags": {
+            "addr:housenumber": "33",
+            "addr:street": "Camden Street Lower",
+            "amenity": "casino",
+            "name": "Gold Rush",
+            "address": "Gold Rush, 33, Camden Street Lower, Saint Kevin's, Dublin 2, Dublin, County Dublin, Leinster, D02 HH92, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 3647760767,
+        "lat": 52.6759706,
+        "lon": -6.2949467,
+        "tags": {
+            "amenity": "casino",
+            "name": "Lucky 7's",
+            "address": "Lucky 7's, Thomas Street, Gorey Corporation Townlands, Gorey Urban, Gorey, County Wexford, Leinster, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 3974837547,
+        "lat": 54.8268803,
+        "lon": -7.4629009,
+        "tags": {
+            "addr:housenumber": "17",
+            "addr:street": "Abercorn Square",
+            "amenity": "casino",
+            "name": "Hustlers",
+            "opening_hours": "13:00-23:00",
+            "phone": "02871 886367",
+            "sport": "billiards",
+            "address": "Hustlers, 17, Abercorn Square, Townparks of Strabane, Strabane, County Tyrone, Northern Ireland, BT82 8AQ, United Kingdom"
+        }
+    },
+    {
+        "type": "node",
+        "id": 4018885335,
+        "lat": 52.659477,
+        "lon": -8.6253893,
+        "tags": {
+            "amenity": "casino",
+            "name": "Parnell Plaza",
+            "opening_hours": "24/7",
+            "address": "Parnell Plaza, Parnell Street, Prior's-Land, Shannon B, The Metropolitan District of Limerick City, County Limerick, Munster, V94 K377, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 4018934698,
+        "lat": 52.660036,
+        "lon": -8.6277359,
+        "tags": {
+            "amenity": "casino",
+            "name": "Fitzpatrick's Casino",
+            "address": "Fitzpatrick's Casino, Pery Street, Prior's-Land, Shannon B, The Metropolitan District of Limerick City, County Limerick, Munster, V94 K377, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 4030104122,
+        "lat": 52.6627807,
+        "lon": -8.6289018,
+        "tags": {
+            "addr:city": "Limerick",
+            "addr:street": "Shannon Street",
+            "amenity": "casino",
+            "name": "Stella Bingo Hall",
+            "opening_hours": "Mo-Sa 11:00-00:00; Su 12:00-00:00",
+            "phone": "+353 61 419922"
+        }
+    },
+    {
+        "type": "node",
+        "id": 4077512565,
+        "lat": 53.2741293,
+        "lon": -7.4924702,
+        "tags": {
+            "amenity": "casino",
+            "name": "Pot of Gold",
+            "address": "Pot of Gold, O'Connor Square, Tullamore, Tullamore Urban ED, The Municipal District of Tullamore, County Offaly, Leinster, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 4464704461,
+        "lat": 53.856295,
+        "lon": -9.2986991,
+        "tags": {
+            "amenity": "casino",
+            "name": "Castle Card Club",
+            "address": "Castle Card Club, Main Street, Gorteendrunagh, Castlebar Urban ED, Castlebar Municipal District, County Mayo, Connacht, F23 WF90, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 4654624204,
+        "lat": 53.8793708,
+        "lon": -7.7898534,
+        "tags": {
+            "amenity": "casino",
+            "address": "Drumshanbo South, Cattan ED, Carrick-on-Shannon Municipal District, County Leitrim, Connacht, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 4935460962,
+        "lat": 52.6649173,
+        "lon": -8.6256311,
+        "tags": {
+            "amenity": "casino",
+            "name": "Fitzpatrick's Casino",
+            "address": "Fitzpatrick's Casino, Patrick Street, Prior's-Land, Custom House, The Metropolitan District of Limerick City, County Limerick, Munster, V94 AY9C, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5004794569,
+        "lat": 52.661697,
+        "lon": -8.6237484,
+        "tags": {
+            "amenity": "casino",
+            "name": "MacArthur's",
+            "address": "MacArthur's, Thomas Street, Prior's-Land, Shannon B, The Metropolitan District of Limerick City, County Limerick, Munster, V94 K377, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5004878833,
+        "lat": 52.6622157,
+        "lon": -8.6233597,
+        "tags": {
+            "amenity": "casino",
+            "address": "Roma, William Street, Prior's-Land, Shannon B, The Metropolitan District of Limerick City, County Limerick, Munster, V94 A9NX, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5269119222,
+        "lat": 54.3047474,
+        "lon": -8.176793,
+        "tags": {
+            "amenity": "casino",
+            "address": "Sligo Road, Clooneen, Manorhamilton ED, Manorhamilton Municipal District, County Leitrim, Connacht, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5301563867,
+        "lat": 53.3532702,
+        "lon": -6.2602928,
+        "tags": {
+            "addr:housenumber": "153",
+            "addr:street": "Parnell Street",
+            "amenity": "casino",
+            "name": "Fitzpatrick's Casino",
+            "address": "153, Parnell Street, Rotunda A ED, Dublin 1, Dublin, County Dublin, Leinster, D01 T2X2, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5325864083,
+        "lat": 51.9012044,
+        "lon": -8.466332,
+        "tags": {
+            "addr:city": "Cork",
+            "addr:housenumber": "3",
+            "addr:street": "MacCurtain Street",
+            "amenity": "casino",
+            "name": "Gold Rush"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5356967445,
+        "lat": 53.3470934,
+        "lon": -6.2577931,
+        "tags": {
+            "addr:housenumber": "4-5",
+            "addr:street": "Burgh Quay",
+            "amenity": "casino",
+            "name": "Empire Casino",
+            "address": "Empire Casino, 4-5, Burgh Quay, Mansion House A ED, Dublin 2, Dublin, County Dublin, Leinster, D02 VW90, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5373753036,
+        "lat": 53.3263489,
+        "lon": -6.2651414,
+        "tags": {
+            "addr:street": "Rathmines Road Lower",
+            "amenity": "casino",
+            "fixme": "Check name and details. Check upstairs use.",
+            "name": "Gold Rush",
+            "address": "Gold Rush, Rathmines Road Lower, Rathmines, Rathmines West B ED, Dublin 6, Dublin, County Dublin, Leinster, D06 V3Y8, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5581103826,
+        "lat": 52.3417943,
+        "lon": -6.4626112,
+        "tags": {
+            "addr:city": "Wexford",
+            "addr:street": "Monck Street",
+            "amenity": "casino",
+            "name": "Bridge Casino Live"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5581103861,
+        "lat": 52.3354823,
+        "lon": -6.4587088,
+        "tags": {
+            "addr:city": "Wexford",
+            "addr:street": "South Main Street",
+            "amenity": "casino",
+            "name": "Flanaghan's Casino"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5590303237,
+        "lat": 52.3389028,
+        "lon": -6.4599083,
+        "tags": {
+            "addr:city": "Wexford",
+            "addr:street": "Custom House Quay",
+            "amenity": "casino",
+            "name": "Fun Palace"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5591654779,
+        "lat": 53.3455546,
+        "lon": -6.2595519,
+        "tags": {
+            "addr:housenumber": "5",
+            "addr:street": "Westmoreland Street",
+            "amenity": "casino",
+            "name": "Amusement City Casino",
+            "start_date": "1974",
+            "address": "Temple Bar, Fishamble Street, Temple Bar, Wood Quay A ED, Dublin 8, Dublin, County Dublin, Leinster, D08 XW20, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5694496217,
+        "lat": 52.3365537,
+        "lon": -6.460404,
+        "tags": {
+            "addr:city": "Wexford",
+            "addr:street": "South Main Street",
+            "amenity": "casino",
+            "name": "Gold Rush"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5793033558,
+        "lat": 54.588728,
+        "lon": -5.9335499,
+        "tags": {
+            "amenity": "casino",
+            "name": "Oasis Bingo",
+            "address": "Oasis Bingo, Botanic Avenue, Linen Quarter, Malone Lower, Belfast, County Antrim, Northern Ireland, BT7 1JL, United Kingdom"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5839136365,
+        "lat": 52.9545919,
+        "lon": -7.7991395,
+        "tags": {
+            "amenity": "casino",
+            "address": "Full House, Rosemary Street, Townparks, Roscrea, The Municipal District of Thurles, County Tipperary, Munster, E53 YX67, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 5858983098,
+        "lat": 51.9010063,
+        "lon": -8.469692,
+        "tags": {
+            "addr:city": "Cork",
+            "addr:street": "Saint Patrick's Quay",
+            "amenity": "casino",
+            "name": "Victoria Sporting Club"
+        }
+    },
+    {
+        "type": "node",
+        "id": 6025988594,
+        "lat": 53.2861356,
+        "lon": -6.3724204,
+        "tags": {
+            "amenity": "casino",
+            "level": "2",
+            "name": "Expo Casino",
+            "address": "Expo Casino, Belgard Square South, Tallaght, Tallaght-Springfield ED, Dublin 24, South Dublin, County Dublin, Leinster, D24 XC9W, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 6054763953,
+        "lat": 53.4564374,
+        "lon": -6.2200902,
+        "tags": {
+            "amenity": "casino",
+            "name": "Plaza Leisure",
+            "smoking": "outside",
+            "address": "Plaza Leisure, Forster Way, Townparks, Swords Village ED, Swords, Fingal, County Dublin, Leinster, K67 X8Y2, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 6113672806,
+        "lat": 53.3411515,
+        "lon": -6.2657181,
+        "tags": {
+            "addr:street": "Aungier Street",
+            "amenity": "casino",
+            "name": "Fitzpatricks Casino",
+            "website": "http://fitzpatrickscasinogroup.com/",
+            "address": "Fitzpatricks Casino, Aungier Street, Royal Exchange A ED, Dublin 2, Dublin, County Dublin, Leinster, D02 WN47, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 6159161519,
+        "lat": 52.7976208,
+        "lon": -6.1613841,
+        "tags": {
+            "amenity": "casino",
+            "name": "Fun Palace",
+            "address": "Fun Palace, Upper Main Street, Arklow, Arklow No 1 Urban, The Municipal District of Arklow, County Wicklow, Leinster, Y14 EW62, Ireland"
+        }
+    },
+    {
+        "type": "node",
+        "id": 6179026675,
+        "lat": 53.2933071,
+        "lon": -6.13812,
+        "tags": {
+            "addr:city": "D\u00fan Laoghaire",
+            "addr:housenumber": "94",
+            "addr:postcode": "A96 W5E5",
+            "addr:street": "Georges Street Lower",
+            "amenity": "casino",
+            "check_date": "2019-01-01",
+            "contact:facebook": "https://www.facebook.com/fitzpatrickscasino",
+            "contact:twitter": "https://twitter.com/fitzcasino",
+            "name": "Fitzpatricks Casino",
+            "phone": "+353-1-214-4015",
+            "website": "https://fitzpatrickscasino.com/dun-laoghaire/"
+        }
+    },
+    {
+        "type": "node",
+        "id": 6479227163,
+        "lat": 54.6541847,
+        "lon": -5.9186745,
+        "tags": {
+            "amenity": "casino",
+            "name": "Oasis",
+            "address": "Oasis, Longwood Road, Drumnadrough, Belfast, County Antrim, Northern Ireland, BT37 9UL, United Kingdom"
+        }
+    },
+    {
+        "type": "way",
+        "id": 233790938,
+        "center": {
+            "lat": 53.3481869,
+            "lon": -6.2590759
+        },
+        "nodes": [
+            2421258035,
+            2421258038,
+            2421258042,
+            2421258040,
+            2421258035
+        ],
+        "tags": {
+            "addr:city": "Dublin",
+            "addr:housenumber": "8",
+            "addr:street": "O'Connell Street Lower",
+            "amenity": "casino",
+            "building": "yes",
+            "name": "Broadway"
+        }
+    },
+    {
+        "type": "way",
+        "id": 233791357,
+        "center": {
+            "lat": 53.3479795,
+            "lon": -6.2580944
+        },
+        "nodes": [
+            2421262062,
+            2421262061,
+            2421258020,
+            2421262057,
+            2421262062
+        ],
+        "tags": {
+            "addr:city": "Dublin",
+            "addr:housenumber": "9",
+            "addr:street": "Eden Quay",
+            "amenity": "casino",
+            "building": "yes",
+            "name": "Emerald Casino"
+        }
+    },
+    {
+        "type": "way",
+        "id": 237681084,
+        "center": {
+            "lat": 53.2033988,
+            "lon": -6.0989922
+        },
+        "nodes": [
+            4388663952,
+            4388663946,
+            2455671006,
+            2455671004,
+            2455671002,
+            4388663952
+        ],
+        "tags": {
+            "amenity": "casino",
+            "building": "yes",
+            "name": "Funpalace Casino"
+        }
+    },
+    {
+        "type": "way",
+        "id": 398905192,
+        "center": {
+            "lat": 52.6623209,
+            "lon": -8.6232095
+        },
+        "nodes": [
+            4016399782,
+            4016399783,
+            4016399784,
+            4016399785,
+            4016399782
+        ],
+        "tags": {
+            "amenity": "casino",
+            "building": "yes",
+            "name": "Roma"
+        }
+    },
+    {
+        "type": "way",
+        "id": 494455382,
+        "center": {
+            "lat": 54.2709691,
+            "lon": -8.4800005
+        },
+        "nodes": [
+            4862159747,
+            4862159750,
+            4862159753,
+            4862159752,
+            4862159749,
+            4862159747
+        ],
+        "tags": {
+            "amenity": "casino",
+            "building": "yes",
+            "name": "Adelaide Casino"
+        }
+    },
+    {
+        "type": "way",
+        "id": 658163887,
+        "center": {
+            "lat": 53.3610898,
+            "lon": -6.2604477
+        },
+        "nodes": [
+            6163677322,
+            6163677323,
+            6163677324,
+            6163677325,
+            6163677326,
+            6163677327,
+            6163677322
+        ],
+        "tags": {
+            "addr:city": "Dublin",
+            "addr:housenumber": "63",
+            "addr:street": "Dorset Street Lower",
+            "amenity": "casino",
+            "building": "yes",
+            "name": "D1 Club",
+            "website": "http://www.d1club.ie/"
+        }
+    },
+    {
+        "type": "way",
+        "id": 686934628,
+        "center": {
+            "lat": 54.6638104,
+            "lon": -5.6670174
+        },
+        "nodes": [
+            6439292568,
+            6439292569,
+            6439292573,
+            6439292574,
+            6439292576,
+            6439292575,
+            6439292568
+        ],
+        "tags": {
+            "amenity": "casino",
+            "building": "yes",
+            "name": "Funland"
+        }
+    },
+    {
+        "type": "relation",
+        "id": 7431681,
+        "center": {
+            "lat": 52.6616127,
+            "lon": -8.623742
+        },
+        "members": [
+            {
+                "type": "way",
+                "ref": 362097214,
+                "role": "outer"
+            },
+            {
+                "type": "way",
+                "ref": 401091643,
+                "role": "outer"
+            }
+        ],
+        "tags": {
+            "amenity": "casino",
+            "building": "yes",
+            "type": "multipolygon"
+        }
+    }
+]
